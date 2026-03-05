@@ -1,0 +1,238 @@
+{
+  "siteName": "PDF Software Australia",
+  "domain": "https://pdfsoftware.com.au",
+  "googleAnalyticsId": "",
+  "branding": {
+    "industry": "Enterprise, Government & Legal",
+    "region": "Australia",
+    "headline": "Switch from Adobe Acrobat and Save Thousands",
+    "subheadline": "Tungsten Power PDF delivers everything your team needs - editing, redaction, e-signatures, and Microsoft 365 integration - at a fraction of Adobe's annual subscription cost. Perpetual licensing available. Local Australian support.",
+    "statsMessage": "Potential savings up to 79% compared with Adobe Acrobat Pro (based on published pricing 2 March 2026)",
+    "benefitsHeading": "Why Australian organisations choose Power PDF",
+    "benefitsSubheading": "Enterprise-grade PDF capability - without the Adobe Acrobat price tag.",
+    "pricingHeading": "Simple, transparent pricing",
+    "pricingSubheading": "One-time purchase. Own it forever. No subscriptions, no renewals.",
+    "aboutHeading": "Local expertise. Enterprise results.",
+    "aboutBody": "Voice Recognition Australia has been deploying enterprise document software across Australian government, legal, and corporate environments for 25 years. We provide local onboarding, training, and ongoing support - not just a licence key.",
+    "howItWorksSubheading": "From enquiry to deployment - we handle everything locally.",
+    "featuresHeading": "Key features",
+    "featuresSubheading": "Everything your team needs to work with documents securely and efficiently.",
+    "ctaHeading": "Ready to switch from Adobe Acrobat?",
+    "ctaBody": "Tell us about your organisation and we'll respond within one business day with a tailored proposal - licensing options, volume pricing, and a free 15-day trial.",
+    "ctaBullets": [
+      "Organisation name and sector",
+      "Number of users and platform (Windows / Mac)",
+      "Current PDF solution and pain points",
+      "Procurement requirements or constraints"
+    ]
+  },
+  "form": {
+    "id": "281",
+    "submitText": "Request Information",
+    "hiddenU": "281",
+    "hiddenF": "281",
+    "hiddenOr": "dc5b5401-7502-40c5-8526-4ecfaa46de59"
+  },
+  "heroVideo": {
+    "enabled": true,
+    "youtubeId": "1R23rVJ2Bgg"
+  },
+  "colours": {
+    "primary": "#1a2f5e",
+    "background": "#ffffff",
+    "neutral": "#f1f5f9",
+    "accent": "#f59e0b",
+    "accentHover": "#d97706",
+    "text": "#0f172a",
+    "muted": "#475569"
+  },
+  "stats": [
+    { "value": "70+", "label": "Countries deployed" },
+    { "value": "25+", "label": "Years in market" },
+    { "value": "$261", "label": "AUD inc GST - Advanced, once" },
+    { "value": "15 days", "label": "Free trial" }
+  ],
+  "aboutEditions": [
+    {
+      "name": "Standard - $188 AUD",
+      "desc": "Individual users. Create, edit, convert, sign. Perpetual licence for Windows."
+    },
+    {
+      "name": "Advanced - $261 AUD",
+      "desc": "Business users. Adds redaction, Bates numbering, batch processing, e-signatures, SharePoint integration.",
+      "highlight": true
+    },
+    {
+      "name": "Mac - $188 AUD",
+      "desc": "Full PDF editing for macOS 10.15 to 14. Native Apple Silicon support."
+    },
+    {
+      "name": "Business SaaS",
+      "desc": "Enterprise volume. Cloud editor, Teams integration, centralised management. Contact us for pricing."
+    }
+  ],
+  "navItems": [
+    { "label": "Benefits", "url": "#benefits" },
+    { "label": "Pricing", "url": "#pricing" },
+    { "label": "Features", "url": "#features" },
+    { "label": "FAQ", "url": "#faq" },
+    { "label": "News", "url": "/news" },
+    { "label": "About", "url": "/about" },
+    { "label": "Contact", "url": "#final-cta" }
+  ],
+  "primaryCTA": {
+    "text": "Request Information",
+    "url": "#final-cta"
+  },
+  "secondaryCTA": {
+    "text": "Try Free 15 Days",
+    "url": "#final-cta"
+  },
+  "benefits": [
+    {
+      "icon": "&#x1F4B0;",
+      "title": "Pay once, own it forever",
+      "body": "Power PDF Standard and Advanced are perpetual licences. Buy once, own it permanently - no annual renewal, no forced subscriptions, no surprise price increases."
+    },
+    {
+      "icon": "&#x1F4C4;",
+      "title": "Full PDF editing and conversion",
+      "body": "Create, edit, and convert PDFs to and from Word, Excel, PowerPoint and more. Office-style interface means your team is productive from day one."
+    },
+    {
+      "icon": "&#x1F512;",
+      "title": "Redaction and compliance",
+      "body": "Advanced edition includes professional redaction, Bates numbering, password protection, and digital signatures - built for legal, government, and compliance workflows."
+    },
+    {
+      "icon": "&#x1F517;",
+      "title": "Microsoft 365 and SharePoint integration",
+      "body": "Native integration with SharePoint, iManage, OneDrive, Microsoft Teams, and Office 365. Works within your existing document management environment."
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Power PDF Standard",
+      "platform": "Windows",
+      "price": "$188",
+      "priceNote": "AUD inc GST - one-time",
+      "highlight": false,
+      "features": [
+        "Create, edit and convert PDFs",
+        "Organise and merge pages",
+        "Annotate and comment",
+        "Digital signatures",
+        "Form fill",
+        "Native ARM support",
+        "Windows 8.1, 10, 11 (32 and 64 bit)"
+      ]
+    },
+    {
+      "name": "Power PDF Advanced",
+      "platform": "Windows",
+      "price": "$261",
+      "priceNote": "AUD inc GST - one-time",
+      "highlight": true,
+      "features": [
+        "Everything in Standard",
+        "Advanced redaction",
+        "Bates numbering and stamping",
+        "Batch processing",
+        "E-signature workflows",
+        "SharePoint and iManage integration",
+        "Enterprise deployment support"
+      ]
+    },
+    {
+      "name": "Power PDF",
+      "platform": "Mac",
+      "price": "$188",
+      "priceNote": "AUD inc GST - one-time",
+      "highlight": false,
+      "features": [
+        "Create, edit and compile PDFs",
+        "Convert from any document type",
+        "Annotate and comment",
+        "Digital signatures",
+        "Compatible with macOS 10.15 to 14",
+        "Native Apple Silicon support"
+      ]
+    }
+  ],
+  "tco": {
+    "heading": "3-year cost comparison - 10 users",
+    "note": "Adobe Acrobat business/teams pricing as published on adobe.com/au, 2 March 2026, incl. GST. Tungsten Power PDF Advanced one-time purchase price incl. GST.",
+    "rows": [
+      { "product": "Tungsten Power PDF Advanced", "cost": "A$2,610", "type": "One-time" },
+      { "product": "Adobe Acrobat Standard for teams", "cost": "A$9,718", "type": "Subscription" },
+      { "product": "Adobe Acrobat Pro for teams", "cost": "A$12,597", "type": "Subscription" },
+      { "product": "Bluebeam Basics", "cost": "A$13,530", "type": "Subscription" }
+    ]
+  },
+  "proofPoints": [
+    "Formerly Kofax - trusted enterprise PDF software since 1992",
+    "Deployed in 70+ countries including Australian government agencies",
+    "Perpetual licensing - own it forever, no forced subscriptions",
+    "Local Australian support from VRA - 25 years experience"
+  ],
+  "steps": [
+    {
+      "title": "Submit your enquiry",
+      "text": "Tell us about your organisation size, current PDF solution, and deployment requirements."
+    },
+    {
+      "title": "Receive a tailored proposal",
+      "text": "We confirm the right edition - Standard, Advanced or Business - with volume pricing and procurement options for your sector."
+    },
+    {
+      "title": "Trial and deploy",
+      "text": "Download a free 15-day trial, validate in your environment, and deploy with local onboarding from our Australian team."
+    }
+  ],
+  "features": [
+    {
+      "key": "feature-transcription",
+      "icon": "&#x1F512;",
+      "title": "Professional redaction and legal workflows",
+      "body": "Permanently redact sensitive information, apply Bates numbering and stamping, set document permissions, and manage digital signatures. Built for legal, government, and compliance environments."
+    },
+    {
+      "key": "feature-multilingual",
+      "icon": "&#x2601;&#xFE0F;",
+      "title": "Cloud editing and Microsoft 365 integration",
+      "body": "Power PDF 2025.3 introduces browser-based cloud editing and deep Microsoft Teams, OneDrive and SharePoint integration. Work on PDFs anywhere, on any device, without leaving your existing workflow."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Tungsten Power PDF a subscription or a one-time purchase?",
+      "a": "Power PDF Standard, Advanced and Mac are perpetual licences - you pay once and own the software permanently with no ongoing fees. Power PDF Business is available as a subscription for organisations requiring centralised management and cloud access."
+    },
+    {
+      "q": "How much cheaper is Power PDF than Adobe Acrobat?",
+      "a": "Adobe Acrobat Pro for teams costs A$419.89 per user per year in Australia. Power PDF Advanced is A$261 per user once - a one-time purchase. For 10 users over 3 years, thats A$2,610 vs A$12,597. Adobe pricing as published on adobe.com/au, 2 March 2026."
+    },
+    {
+      "q": "What does Power PDF Advanced include over Standard?",
+      "a": "Advanced adds SharePoint and iManage integrations, e-signature workflows, batch processing, Bates numbering and stamping, and advanced redaction - plus everything in Standard. It is the recommended edition for legal, government, and enterprise environments."
+    },
+    {
+      "q": "Is it suitable for Australian government procurement?",
+      "a": "Yes - Tungsten Power PDF is deployed in government agencies across Australia and supports standard procurement pathways including panel arrangements and volume licensing. Local support and onboarding is provided by our Australian team."
+    },
+    {
+      "q": "Does it integrate with SharePoint and Microsoft 365?",
+      "a": "Yes - Power PDF Advanced integrates natively with SharePoint, iManage, Microsoft 365, OneDrive, and Teams. It works within your existing document management environment without disruption."
+    },
+    {
+      "q": "Is there a free trial?",
+      "a": "Yes - Power PDF is available as a free 15-day trial with full functionality. Contact us and we will arrange access along with onboarding support from our Australian team."
+    }
+  ],
+  "footerLinks": [
+    { "label": "About", "url": "/about" },
+    { "label": "Privacy Policy", "url": "/privacy" },
+    { "label": "Terms", "url": "/terms" },
+    { "label": "Contact", "url": "#final-cta" }
+  ]
+}

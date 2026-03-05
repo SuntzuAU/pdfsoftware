@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "key": "hero",
+    "r2Key": "speechrecognition-cloud/2026/03/02/tungsten-pdf-enterprise-australia-5c251f05.png",
+    "altText": "Enterprise PDF software interface large monitor office environment Australian government legal setting"
+  },
+  "about-banner": {
+    "key": "about-banner",
+    "r2Key": "speechrecognition-cloud/2026/03/02/pdf-software-australian-team-ef6d09da.png",
+    "altText": "Australian enterprise technology team office reviewing PDF documents screens corporate environment collaborative"
+  },
+  "feature-transcription": {
+    "key": "feature-transcription",
+    "r2Key": "speechrecognition-cloud/2026/03/02/pdf-redaction-compliance-tool-40829b34.png",
+    "altText": "PDF document redaction interface screen sensitive information securely redacted compliance legal document"
+  },
+  "feature-multilingual": {
+    "key": "feature-multilingual",
+    "r2Key": "speechrecognition-cloud/2026/03/02/pdf-workflow-automation-enterprise-be9611d7.png",
+    "altText": "Enterprise document workflow automation dashboard multiple PDF documents processed SharePoint Microsoft 365"
+  },
+  "cta-banner": {
+    "key": "cta-banner",
+    "r2Key": "speechrecognition-cloud/2026/03/02/tungsten-pdf-government-procurement-dff1f41b.png",
+    "altText": "Australian government office using PDF software secure document management formal government environment"
+  }
+}
