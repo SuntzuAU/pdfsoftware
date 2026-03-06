@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "key": "hero",
+      "name": "tungsten-pdf-enterprise-australia",
+      "prompt": "Professional enterprise PDF software interface on a large monitor, clean modern office environment, Australian government or legal setting, confident professional reviewing documents, blue and white corporate tones"
+    },
+    {
+      "key": "about-banner",
+      "name": "pdf-software-australian-team",
+      "prompt": "Australian enterprise technology team in a professional office, reviewing PDF documents on screens, corporate environment, collaborative meeting, trust and expertise"
+    },
+    {
+      "key": "feature-transcription",
+      "name": "pdf-redaction-compliance-tool",
+      "prompt": "PDF document redaction interface on screen, sensitive information being securely redacted, compliance and legal document workflow, professional software UI, clean and precise"
+    },
+    {
+      "key": "feature-multilingual",
+      "name": "pdf-workflow-automation-enterprise",
+      "prompt": "Enterprise document workflow automation dashboard, multiple PDF documents being processed, SharePoint and Microsoft 365 integration visible, professional corporate software interface"
+    },
+    {
+      "key": "cta-banner",
+      "name": "tungsten-pdf-government-procurement",
+      "prompt": "Australian government office professional using PDF software, secure document management, formal government environment, trust and compliance, professional blue tones"
+    }
+  ]
+}
