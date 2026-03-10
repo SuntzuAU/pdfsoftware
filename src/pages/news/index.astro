@@ -15,7 +15,7 @@ const imgSrc = (key?: string) => key ? `${R2_BASE}/${key}` : '';
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>News & Insights — {site.siteName}</title>
+    <title>News & Insights -- {site.siteName}</title>
     <meta name="description" content={`Latest news, guides and insights from ${site.siteName} and Voice Recognition Australia.`} />
     <link rel="canonical" href={`${site.domain}/news`} />
     <style is:inline>
@@ -52,7 +52,7 @@ const imgSrc = (key?: string) => key ? `${R2_BASE}/${key}` : '';
   </head>
   <body>
     <header>
-      <a class="logo" href="/"><img src="/logo.png" alt={site.siteName} /></a>
+      <a class="logo" href="/"><img src="/logo.jpg" alt={site.siteName} /></a>
       <a class="home-link" href="/">← Back to home</a>
     </header>
 
@@ -81,7 +81,7 @@ const imgSrc = (key?: string) => key ? `${R2_BASE}/${key}` : '';
                 <div class="card-date">{new Date(post.data.date).toLocaleDateString('en-AU', { day:'numeric', month:'long', year:'numeric' })}</div>
                 <div class="card-title">{post.data.title}</div>
                 <div class="card-desc">{post.data.metaDescription}</div>
-                <span class="card-link">Read more →</span>
+                <span class="card-link">Read more &#8594;</span>
               </div>
             </a>
           ))}
@@ -94,7 +94,7 @@ const imgSrc = (key?: string) => key ? `${R2_BASE}/${key}` : '';
       <a href="/about">About</a> &nbsp;·&nbsp;
       <a href="/privacy">Privacy</a> &nbsp;·&nbsp;
       <a href="/terms">Terms</a> &nbsp;·&nbsp;
-      © {year} Voice Recognition Australia
+      &copy; {year} Voice Recognition Australia
     </footer>
   </body>
 </html>

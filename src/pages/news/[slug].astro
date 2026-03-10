@@ -23,7 +23,7 @@ const formattedDate = new Date(post.data.date).toLocaleDateString('en-AU', {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{post.data.title} — {site.siteName}</title>
+    <title>{post.data.title} -- {site.siteName}</title>
     <meta name="description" content={post.data.metaDescription} />
     <link rel="canonical" href={`${site.domain}/news/${post.slug}`} />
     <meta property="og:title" content={post.data.title} />
@@ -72,7 +72,7 @@ const formattedDate = new Date(post.data.date).toLocaleDateString('en-AU', {
   </head>
   <body>
     <header>
-      <a class="logo" href="/"><img src="/logo.png" alt={site.siteName} /></a>
+      <a class="logo" href="/"><img src="/logo.jpg" alt={site.siteName} /></a>
       <a class="back" href="/news">&#8592; All articles</a>
     </header>
 
