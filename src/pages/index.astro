@@ -17,7 +17,6 @@ function imgAlt(key) {
 const c = site.colours;
 const formId = site.form.id;
 
-// SVG icons keyed by position — avoids HTML entities in JSON entirely
 const benefitIcons = [
   `<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16" r="16" fill="#fef3c7"/><path d="M16 8a8 8 0 1 1 0 16A8 8 0 0 1 16 8zm0 2a6 6 0 1 0 0 12A6 6 0 0 0 16 10zm1 2v5.17l3.41 3.42-1.41 1.41L15 18.59V12h2z" fill="#f59e0b"/></svg>`,
   `<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16" r="16" fill="#fef3c7"/><path d="M22 9H10a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V11a2 2 0 0 0-2-2zm0 12H10V11h12v10zm-9-8h6v2h-6v-2zm0 4h4v2h-4v-2z" fill="#f59e0b"/></svg>`,
@@ -137,7 +136,7 @@ const benefitIcons = [
       .pricing-note{font-size:13px;color:#64748b;margin:0 0 20px}
       .pricing-features{list-style:none;padding:0;margin:0 0 24px;flex:1}
       .pricing-features li{padding:7px 0;border-bottom:1px solid #f1f5f9;font-size:14px;color:#334155;display:flex;gap:8px;align-items:flex-start}
-      .pricing-features li::before{content:"✓";color:#f59e0b;font-weight:700;flex-shrink:0}
+      .pricing-features li::before{content:"\2713";color:#f59e0b;font-weight:700;flex-shrink:0}
       .tco-table{width:100%;border-collapse:collapse;margin-top:24px}
       .tco-table th{text-align:left;padding:12px 16px;font-size:13px;font-weight:600;color:#475569;border-bottom:2px solid #e2e8f0;background:#f8fafc}
       .tco-table td{padding:14px 16px;font-size:15px;border-bottom:1px solid #f1f5f9}
@@ -196,7 +195,7 @@ const benefitIcons = [
       <div class="wrap">
         <div class="nav">
           <div class="logo">
-            <img src="/logo.png" alt={site.siteName} onerror="this.style.display='none'" />
+            <img src="/logo.jpg" alt={site.siteName} onerror="this.style.display='none'" />
           </div>
           <nav class="nav-links" aria-label="Primary">
             {site.navItems?.map((item) => <a href={item.url}>{item.label}</a>)}
@@ -263,12 +262,7 @@ const benefitIcons = [
           <div class="wrap">
             <div class="video-outer">
               <div class="yt-facade" data-ytid={site.heroVideo.youtubeId}>
-                <img
-                  src={`https://i.ytimg.com/vi/${site.heroVideo.youtubeId}/maxresdefault.jpg`}
-                  alt="Play video"
-                  loading="lazy"
-                  decoding="async"
-                />
+                <img src={`https://i.ytimg.com/vi/${site.heroVideo.youtubeId}/maxresdefault.jpg`} alt="Play video" loading="lazy" decoding="async" />
                 <div class="yt-play">
                   <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M8 5v14l11-7z"/></svg>
                 </div>
@@ -335,20 +329,10 @@ const benefitIcons = [
             <p style="color:#475569;font-size:14px;margin:0 0 4px">Switch now and keep the savings every year.</p>
             <div class="tco-table-wrap">
               <table class="tco-table">
-                <thead>
-                  <tr>
-                    <th>Product</th>
-                    <th>3-year total (10 users)</th>
-                    <th>Licence type</th>
-                  </tr>
-                </thead>
+                <thead><tr><th>Product</th><th>3-year total (10 users)</th><th>Licence type</th></tr></thead>
                 <tbody>
                   {site.tco?.rows?.map((r, i) => (
-                    <tr class={i === 0 ? "winner" : ""}>
-                      <td>{r.product}</td>
-                      <td>{r.cost}</td>
-                      <td>{r.type}</td>
-                    </tr>
+                    <tr class={i === 0 ? "winner" : ""}><td>{r.product}</td><td>{r.cost}</td><td>{r.type}</td></tr>
                   ))}
                 </tbody>
               </table>
@@ -463,24 +447,12 @@ const benefitIcons = [
                   <input type="hidden" name="v" value="2" />
                   <input type="hidden" name="or" value={site.form.hiddenOr} />
                   <div class="_form-content">
-                    <div class="_form_element">
-                      <input type="text" name="firstname" placeholder="Your Name" required />
-                    </div>
-                    <div class="_form_element">
-                      <input type="text" name="email" placeholder="Your Email" required />
-                    </div>
-                    <div class="_form_element">
-                      <input type="text" name="phone" placeholder="Your Phone Number" />
-                    </div>
-                    <div class="_form_element">
-                      <input type="text" name="field[21]" placeholder="Number of Users" />
-                    </div>
-                    <div class="_form_element">
-                      <input type="text" name="field[35]" placeholder="Company / Organisation" />
-                    </div>
-                    <div class="_form_element">
-                      <textarea name="field[18]" placeholder="Optionally describe your needs"></textarea>
-                    </div>
+                    <div class="_form_element"><input type="text" name="firstname" placeholder="Your Name" required /></div>
+                    <div class="_form_element"><input type="text" name="email" placeholder="Your Email" required /></div>
+                    <div class="_form_element"><input type="text" name="phone" placeholder="Your Phone Number" /></div>
+                    <div class="_form_element"><input type="text" name="field[21]" placeholder="Number of Users" /></div>
+                    <div class="_form_element"><input type="text" name="field[35]" placeholder="Company / Organisation" /></div>
+                    <div class="_form_element"><textarea name="field[18]" placeholder="Optionally describe your needs"></textarea></div>
                     <button class="_submit" type="submit">{site.form.submitText}</button>
                   </div>
                   <div class="_form-thank-you" style="display:none;"></div>
