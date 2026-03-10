@@ -30,24 +30,6 @@ const year = new Date().getFullYear();
       .section-label{font-size:11px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#f59e0b;margin:0 0 8px}
       .section h2{font-size:26px;letter-spacing:-0.02em;margin:0 0 16px;color:#1a2f5e;line-height:1.2}
       .section p{font-size:15px;color:#334155;margin:0 0 14px}
-      .pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:24px}
-      .pillar{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:24px}
-      .pillar-num{font-size:32px;font-weight:800;color:#e2e8f0;line-height:1;margin-bottom:8px}
-      .pillar h3{font-size:16px;font-weight:700;color:#1a2f5e;margin:0 0 10px}
-      .pillar p{font-size:14px;color:#475569;margin:0}
-      .failures{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
-      .failure{background:#fff5f5;border:1px solid #fecaca;border-radius:10px;padding:18px}
-      .failure h4{font-size:14px;font-weight:700;color:#991b1b;margin:0 0 6px}
-      .failure p{font-size:13px;color:#7f1d1d;margin:0}
-      .quote-box{background:#1a2f5e;border-radius:16px;padding:36px 40px;margin:48px 0}
-      .quote-box blockquote{margin:0 0 20px;padding:0}
-      .quote-box blockquote p{font-size:18px;font-style:italic;color:#cbd5e1;line-height:1.7;margin:0}
-      .quote-author{font-weight:700;color:#f59e0b;font-size:15px}
-      .quote-title{color:#94a3b8;font-size:13px;margin-top:2px}
-      .envs{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px}
-      .env{border-left:3px solid #f59e0b;padding:16px 20px;background:#fafafa;border-radius:0 8px 8px 0}
-      .env h3{font-size:15px;font-weight:700;color:#1a2f5e;margin:0 0 6px}
-      .env p{font-size:14px;color:#475569;margin:0}
       .cta-box{background:#f1f5f9;border-radius:16px;padding:40px;text-align:center;margin-top:56px}
       .cta-box h2{font-size:24px;margin:0 0 10px;color:#0f172a}
       .cta-box p{font-size:15px;color:#475569;margin:0 0 24px;max-width:500px;margin-left:auto;margin-right:auto}
@@ -59,12 +41,12 @@ const year = new Date().getFullYear();
       .divider{border:none;border-top:1px solid #e2e8f0;margin:56px 0}
       footer{border-top:1px solid #e2e8f0;padding:24px;text-align:center;font-size:13px;color:#94a3b8}
       footer a{color:#1a2f5e;text-decoration:none}
-      @media(max-width:680px){.stats{grid-template-columns:repeat(2,1fr)}.pillars{grid-template-columns:1fr}.failures{grid-template-columns:1fr}.envs{grid-template-columns:1fr}.hero h1{font-size:28px}.quote-box{padding:24px}}
+      @media(max-width:680px){.stats{grid-template-columns:repeat(2,1fr)}.hero h1{font-size:28px}}
     </style>
   </head>
   <body>
     <header>
-      <a href="/"><img src="/logo.jpg" alt={site.siteName} /></a>
+      <a href="/"><img src="/logo.png" alt={site.siteName} /></a>
     </header>
     <div class="wrap">
       <div class="hero">
