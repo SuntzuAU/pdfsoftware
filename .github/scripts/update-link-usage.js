@@ -1,7 +1,7 @@
 /**
  * update-link-usage.js
  * Runs after every merge to main.
- * Scans all blog post frontmatter and rebuilds link-usage.json from scratch.
+ * Scans all blog post frontmatter in src/content/news/ and rebuilds link-usage.json.
  * The frontmatter is the source of truth - this file is the computed report.
  *
  * Usage: node .github/scripts/update-link-usage.js
@@ -21,12 +21,12 @@ try {
 
 const USAGE_FILE = path.join(__dirname, '../../src/data/link-usage.json');
 const NETWORK_FILE = path.join(__dirname, '../../src/data/link-network.json');
-const BLOG_DIR = path.join(__dirname, '../../src/content/blog');
+const NEWS_DIR = path.join(__dirname, '../../src/content/news');
 
 function getAllMarkdownFiles(dir) {
   if (!fs.existsSync(dir)) return [];
   return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.md') || f.endsWith('.mdx'))
+    .filter(f => (f.endsWith('.md') || f.endsWith('.mdx')) && !f.startsWith('_'))
     .map(f => path.join(dir, f));
 }
 
@@ -37,21 +37,18 @@ function main() {
 
   const coverage = {};
   const anchorsUsed = {};
-  networkSites.forEach(site => {
-    coverage[site] = 0;
-    anchorsUsed[site] = [];
-  });
+  networkSites.forEach(site => { coverage[site] = 0; anchorsUsed[site] = []; });
 
   const internalLog = [];
   const externalLog = [];
   let internalTotal = 0;
 
-  const posts = getAllMarkdownFiles(BLOG_DIR);
+  const posts = getAllMarkdownFiles(NEWS_DIR);
 
   for (const postPath of posts) {
     const raw = fs.readFileSync(postPath, 'utf8');
     const { data } = matter(raw);
-    const slug = '/' + path.basename(postPath).replace(/\.mdx?$/, '');
+    const slug = '/news/' + path.basename(postPath).replace(/\.mdx?$/, '');
 
     if (data.internalLinks && Array.isArray(data.internalLinks)) {
       for (const link of data.internalLinks) {
