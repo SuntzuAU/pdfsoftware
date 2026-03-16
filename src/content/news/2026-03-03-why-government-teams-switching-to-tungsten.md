@@ -8,6 +8,14 @@ breakImage2: "speechrecognition-cloud/2026/03/06/why-australian-government-teams
 section1Title: "The Cost Problem With Adobe in the Public Sector"
 section2Title: "What Tungsten Power PDF Offers Government Teams"
 section3Title: "Making the Switch: What to Expect"
+context: "descriptive"
+internalLinks:
+  - to: "/news/2026-03-04-government-rethinking-software-subscriptions"
+    anchor: "how Australian agencies are rethinking software subscriptions"
+externalLinks:
+  - to: "voicerecognition.com.au"
+    anchor: "Australian Dragon software specialists"
+    url: "https://www.voicerecognition.com.au"
 ---
 
 Adobe Acrobat has dominated PDF software purchasing decisions in Australian government for years. It is familiar, widely deployed, and easy to justify on a procurement form. But familiarity is not the same as value — and as subscription costs compound year after year, a growing number of agencies are running the numbers and arriving at the same conclusion.
@@ -18,7 +26,7 @@ For a team of 10 users over three years, Adobe Acrobat Pro for teams costs appro
 
 Annual subscription software is not inherently bad. But in government environments, it creates a specific kind of budget risk. Subscription costs increase at renewal. Vendor pricing decisions are outside your control. And because the software is never truly owned, every year you are effectively paying again for capability you already have.
 
-Perpetual licences eliminate this risk entirely. You pay once, you own the software, and your budget exposure is contained.
+Perpetual licences eliminate this risk entirely. You pay once, you own the software, and your budget exposure is contained. It is part of a broader pattern worth understanding — read more about [how Australian agencies are rethinking software subscriptions](/news/2026-03-04-government-rethinking-software-subscriptions).
 
 ## What Tungsten Power PDF Offers Government Teams
 
@@ -28,7 +36,7 @@ Key capabilities include full PDF/A compliance for long-term archiving, advanced
 
 ## Australian support matters
 
-When Adobe has a problem, the support path is an international helpdesk. When Tungsten Power PDF is deployed through Voice Recognition Australia, support is handled locally, typically within 15 minutes.
+When Adobe has a problem, the support path is an international helpdesk. When Tungsten Power PDF is deployed through Voice Recognition Australia, support is handled locally, typically within 15 minutes. Government agencies across Australia have relied on the same team for enterprise software deployment for over 25 years — the same team who, as [Australian Dragon software specialists](https://www.voicerecognition.com.au), have been deploying productivity software in government environments since the late 1990s.
 
 ## Making the Switch: What to Expect
 

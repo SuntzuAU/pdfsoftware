@@ -155,6 +155,8 @@ const benefitIcons = [
       .footer-links{display:flex;gap:20px}
       .footer-links a:hover{color:white}
       .stat-check{display:inline-block;width:14px;height:14px;margin-right:4px;vertical-align:middle;flex-shrink:0}
+      .about-link{color:#1a2f5e;text-decoration:underline;text-underline-offset:2px}
+      .about-link:hover{color:#f59e0b}
 
       @media(max-width:900px){
         .hero-inner{grid-template-columns:1fr}
@@ -350,6 +352,7 @@ const benefitIcons = [
               {imgSrc("about-banner") && <div class="card-img"><img src={imgSrc("about-banner")} alt={imgAlt("about-banner")} loading="lazy" decoding="async" /></div>}
               <h3>{site.branding.aboutHeading}</h3>
               <p>{site.branding.aboutBody}</p>
+              <p style="font-size:15px;color:#475569;margin-top:8px">Tungsten Power PDF is sold and supported in Australia by <a href="https://www.voicerecognition.com.au" class="about-link">Voice Recognition Australia</a> — one of Australia's most experienced enterprise software resellers, with 25 years of deployment across government, legal, and corporate environments.</p>
               <div style="margin-top:16px;display:flex;flex-wrap:wrap;gap:8px">
                 {site.proofPoints?.map((p) => (
                   <div style="background:#f1f5f9;border-radius:999px;padding:6px 14px;font-size:13px;font-weight:600;color:#334155">&#10003; {p}</div>

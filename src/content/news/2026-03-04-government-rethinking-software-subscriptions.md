@@ -5,6 +5,16 @@ metaDescription: "Australian government procurement teams are taking a closer lo
 heroImage: "speechrecognition-cloud/2026/03/06/why-australian-government-agencies-are-rethinking-software-s-hero-86982d45.png"
 breakImage1: "speechrecognition-cloud/2026/03/06/why-australian-government-agencies-are-rethinking-software-s-break1-3d791ab3.png"
 breakImage2: "speechrecognition-cloud/2026/03/06/why-australian-government-agencies-are-rethinking-software-s-break2-08c5eb43.png"
+context: "descriptive"
+internalLinks:
+  - to: "/news/2026-03-03-why-government-teams-switching-to-tungsten"
+    anchor: "why government teams are switching from Adobe Acrobat to Tungsten Power PDF"
+  - to: "/#pricing"
+    anchor: "pricing comparison"
+externalLinks:
+  - to: "dragonnaturallyspeaking.com.au"
+    anchor: "professional dictation software for Australia"
+    url: "https://www.dragonnaturallyspeaking.com.au"
 ---
 
 Australian government agencies have spent the better part of a decade moving toward subscription-based software. The logic made sense at the time - lower upfront costs, automatic updates, predictable monthly billing. But as those subscriptions compound year after year, a growing number of procurement teams are doing the maths and arriving at an uncomfortable conclusion: the ongoing cost has quietly become the problem.
@@ -32,3 +42,5 @@ Perpetual licensing is not the right answer for every situation. The important t
 For most government teams running stable document workflows with a consistent headcount, the maths tends to favour perpetual licensing once you model it properly.
 
 If your agency is approaching an Adobe Acrobat renewal, it is worth comparing the three-year cost before committing. See our [pricing comparison](/#pricing) for a detailed breakdown.
+
+Document output is only one part of the productivity equation for government teams. Agencies that have reduced time spent on PDF handling often find the next bottleneck is document creation itself — and [professional dictation software for Australia](https://www.dragonnaturallyspeaking.com.au) can compound those time savings significantly for staff who produce high volumes of written work.

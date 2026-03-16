@@ -1,11 +1,11 @@
 {
   "thisSite": "pdfsoftware.com.au",
-  "lastRebuilt": "2026-03-13",
+  "lastRebuilt": "2026-03-16",
   "_note": "Link audit from actual blog posts. Tracks external link coverage and anchor text variation.",
   "external": {
     "voicerecognition.com.au": {
-      "count": 0,
-      "anchorsUsed": []
+      "count": 2,
+      "anchorsUsed": ["Australian Dragon software specialists", "Voice Recognition Australia"]
     },
     "pdfsoftware.com.au": {
       "count": 0,
@@ -16,8 +16,8 @@
       "anchorsUsed": []
     },
     "dragonnaturallyspeaking.com.au": {
-      "count": 0,
-      "anchorsUsed": []
+      "count": 1,
+      "anchorsUsed": ["professional dictation software for Australia"]
     },
     "dictationsolutions.com.au": {
       "count": 0,
