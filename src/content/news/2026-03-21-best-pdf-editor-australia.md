@@ -38,15 +38,15 @@ If you work in government, legal, or compliance environments, features like prof
 
 Power PDF Advanced is our top recommendation for Australian business and government users. It is a perpetual licence -- you pay once and own it permanently with no annual subscription fees. The feature set covers the core capabilities most organisations need: full PDF editing, conversion to and from Word, Excel and PowerPoint, advanced redaction, Bates numbering, e-signatures, batch processing, and native SharePoint and iManage integration.
 
-The interface is deliberately similar to Microsoft Office, which means most users are productive immediately without training. For a team of 10 users, the total cost is A$2,610 once -- compared to over A$11,500 for three years of Adobe Acrobat Pro subscriptions at individual pricing.
+The interface is deliberately similar to Microsoft Office, which means most users are productive immediately without training. For a team of 10 users, the total cost is A$2,610 once -- compared to A$11,516 or more for three years of Adobe Acrobat Pro subscriptions.
 
 Power PDF Standard (A$188 inc GST) covers individual users who need core PDF editing without the enterprise features. A Mac edition is also available at A$188.
 
-### Adobe Acrobat Pro -- A$383.86/year per user (individual)
+### Adobe Acrobat Pro -- from A$383.88/year per user
 
 Adobe Acrobat remains the most recognised name in PDF software. The Pro edition includes comprehensive editing, conversion, e-signatures via Adobe Sign, and cloud storage integration. The feature set is excellent, and Adobe offers strong cloud and mobile capabilities.
 
-The main consideration for most Australian organisations is cost. Adobe Acrobat is subscription-only -- there is no perpetual licence option. At A$383.86 per user per year for individuals (with business/teams pricing typically higher), a 10-person team may cost A$11,500 or more over three years. That is considerably more than Power PDF Advanced for comparable core desktop functionality.
+The main consideration for most Australian organisations is cost. Adobe Acrobat is subscription-only -- there is no perpetual licence option. Individuals pay A$383.88 per user per year; businesses pay A$419.88 per user per year for the teams edition with admin features (adobe.com/au, verified March 2026). Over three years for a 10-person team, that ranges from A$11,516 to A$12,598 -- considerably more than Power PDF Advanced for comparable core desktop functionality.
 
 If your organisation already has an Adobe Creative Cloud or enterprise agreement, Acrobat may be bundled at a lower effective price. Otherwise, it is worth running the numbers. See our [full breakdown of Adobe Acrobat alternatives](/news/2026-03-21-adobe-acrobat-alternatives-australia) for a detailed cost comparison.
 
@@ -82,4 +82,4 @@ For individual users or home use, a free PDF editor like Sejda or PDF-XChange wi
 
 [Voice Recognition Australia](https://www.voicerecognition.com.au) has been deploying PDF and document productivity software across Australian government and enterprise environments for over 25 years. Contact us for a tailored recommendation or a free 15-day Power PDF trial.
 
-*Pricing accurate at time of publication. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*
+*Pricing sourced from adobe.com/au, March 2026. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*

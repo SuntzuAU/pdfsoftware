@@ -70,23 +70,21 @@ If cloud-first and mobile access are critical requirements for your team, Adobe 
 
 ## Price Comparison (Verified March 2026)
 
-Adobe Acrobat Pro for individuals is listed at A$383.86 per year on Amazon.com.au (verified March 2026). Business and teams pricing is higher, typically in the range of A$419-444 per user per year depending on the plan and billing arrangement.
+Pricing below is from adobe.com/au (verified March 2026). Adobe offers two tiers -- individual and business -- for the same Acrobat Pro product. The business tier adds administrative features and team management.
 
-| | Tungsten Power PDF Advanced | Adobe Acrobat Pro (individual) |
-|---|---|---|
-| Price per user | A$261 inc GST (one-time) | A$383.86/year (subscription) |
-| 1 user, 1 year | A$261 | A$383.86 |
-| 1 user, 3 years | A$261 | A$1,151.58 |
-| 10 users, 3 years | A$2,610 | A$11,515.80 |
-| Licensing | Perpetual -- own it forever | Subscription -- pay annually |
-
-Organisations purchasing Adobe Acrobat Pro for teams or through volume licensing may pay more per user due to the additional administrative and support features included in business plans.
+| | Tungsten Power PDF Advanced | Adobe Acrobat Pro (individual) | Adobe Acrobat Pro for teams |
+|---|---|---|---|
+| Price per user | A$261 inc GST (one-time) | A$383.88/year inc GST | A$419.88/year inc GST |
+| 1 user, 1 year | A$261 | A$383.88 | A$419.88 |
+| 1 user, 3 years | A$261 | A$1,151.64 | A$1,259.64 |
+| 10 users, 3 years | A$2,610 | A$11,516.40 | A$12,598.40 |
+| Licensing | Perpetual -- own it forever | Subscription | Subscription |
 
 Power PDF Standard is available at A$188 inc GST for users who do not need enterprise features.
 
 See the full [pricing comparison table](/#pricing) on our homepage.
 
-*Pricing accurate at time of publication. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*
+*Pricing sourced from adobe.com/au, March 2026. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*
 
 ## Which Should You Choose?
 

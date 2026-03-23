@@ -28,12 +28,12 @@ This guide compares the strongest Adobe Acrobat alternatives available in Austra
 
 ## Why Look Beyond Adobe Acrobat?
 
-The core consideration is cost. Adobe Acrobat Pro for individuals is listed at A$383.86 per year on Amazon.com.au (verified March 2026). Business and teams pricing is typically higher, in the range of A$419-444 per user per year. These are subscription fees -- you pay every year, and if you stop paying, you lose access to the software.
+The core consideration is cost. Adobe Acrobat Pro for individuals is A$383.88 per year inc GST. Acrobat Pro for teams (which adds administrative features) is A$419.88 per year inc GST. Both prices are listed on adobe.com/au (verified March 2026). These are subscription fees -- you pay every year, and if you stop paying, you lose access to the software.
 
 For a single user, that may be acceptable. For a team of 10 or more, the three-year cost adds up:
 
-- Adobe Acrobat Pro (individual pricing), 10 users, 3 years: **approximately A$11,516**
-- Adobe Acrobat Pro for teams, 10 users, 3 years: **may be higher depending on the plan**
+- Adobe Acrobat Pro (individual), 10 users, 3 years: **A$11,516**
+- Adobe Acrobat Pro for teams, 10 users, 3 years: **A$12,598**
 
 There is no perpetual licence option for Adobe Acrobat. You pay an ongoing subscription fee to retain access.
 
@@ -43,15 +43,16 @@ The second consideration is feature overlap. Many organisations pay for Adobe Ac
 
 ### Tungsten Power PDF Advanced -- A$261 inc GST (one-time)
 
-Power PDF Advanced is one of the strongest direct alternatives to Adobe Acrobat Pro for Australian organisations. It covers the same core capabilities -- PDF editing, conversion, form filling, e-signatures, redaction, Bates numbering, batch processing, and SharePoint integration -- at a fundamentally different price point.
+Power PDF Advanced is one of the strongest direct alternatives to Adobe Acrobat Pro for Australian organisations. It covers the same core desktop capabilities -- PDF editing, conversion, form filling, e-signatures, redaction, Bates numbering, batch processing, and SharePoint integration -- at a fundamentally different price point.
 
 The key difference is licensing. Power PDF Advanced is a perpetual licence. You pay A$261 per user once and own the software permanently. No annual renewals, no subscription fees, no forced upgrades.
 
 For 10 users over three years:
 - **Power PDF Advanced: A$2,610** (one-time)
-- **Adobe Acrobat Pro (individual): approximately A$11,516** (subscription)
+- **Adobe Acrobat Pro (individual): A$11,516** (subscription)
+- **Adobe Acrobat Pro for teams: A$12,598** (subscription)
 
-That represents a potential saving of around A$9,000 for comparable core desktop functionality. See our [detailed Adobe Acrobat Pro vs Tungsten Power PDF comparison](/news/2026-03-21-acrobat-pro-vs-tungsten-power-pdf) for a feature-by-feature breakdown.
+That represents a potential saving of approximately A$9,000 to A$10,000 for comparable core desktop functionality. Adobe Acrobat does offer stronger cloud and mobile capabilities, so the comparison is most relevant for organisations focused on desktop PDF editing. See our [detailed Adobe Acrobat Pro vs Tungsten Power PDF comparison](/news/2026-03-21-acrobat-pro-vs-tungsten-power-pdf) for a feature-by-feature breakdown.
 
 Power PDF is deployed in government agencies across Australia and is supported locally by [Voice Recognition Australia](https://www.voicerecognition.com.au), which has been providing enterprise software deployment and support for over 25 years.
 
@@ -93,4 +94,4 @@ For a broader look at PDF editors including free options, see our [best PDF edit
 
 Tungsten Power PDF is available as a free 15-day trial with full functionality. Contact us to arrange access with local onboarding support.
 
-*Pricing accurate at time of publication. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*
+*Pricing sourced from adobe.com/au, March 2026. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*
