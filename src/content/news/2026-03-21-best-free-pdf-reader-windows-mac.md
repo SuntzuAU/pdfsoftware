@@ -30,7 +30,7 @@ This guide compares the best free PDF readers available in 2026, covering what e
 
 Adobe Acrobat Reader (formerly Adobe Reader) remains the most widely installed PDF reader in the world. It handles PDF viewing, printing, annotations, form filling, and basic digital signatures. The rendering quality is excellent -- unsurprisingly, since Adobe created the PDF format.
 
-The downsides: Adobe Reader is relatively heavy software that can be slow to launch. It frequently prompts you to upgrade to the paid Adobe Acrobat Pro. And it does not include any editing capability -- you cannot change text, merge documents, or convert formats in the free version.
+The downsides: some users find Adobe Reader slower to launch compared to lighter alternatives. It frequently prompts you to upgrade to the paid Adobe Acrobat Pro. And it does not include any editing capability -- you cannot change text, merge documents, or convert formats in the free version.
 
 Adobe Acrobat Reader is a free download from adobe.com.
 

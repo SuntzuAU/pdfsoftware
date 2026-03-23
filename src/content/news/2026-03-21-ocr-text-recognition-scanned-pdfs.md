@@ -46,7 +46,7 @@ Power PDF's OCR also enables conversion from scanned PDF to editable Word, Excel
 
 ### Free OCR Options
 
-**Google Drive** offers free OCR. Upload a scanned PDF or image to Google Drive, then open it with Google Docs. Google automatically runs OCR and creates an editable document. The accuracy is decent for clear scans but struggles with poor quality originals, complex layouts, or non-English text.
+**Google Drive** offers free OCR. Upload a scanned PDF or image to Google Drive, then open it with Google Docs. Google automatically runs OCR and creates an editable document. The accuracy is decent for clear scans but may struggle with poor quality originals, complex layouts, or non-English text.
 
 **Tesseract** is a free open-source OCR engine originally developed by HP and now maintained by Google. It is command-line only and requires technical knowledge to use, but the OCR quality is competitive with commercial products. It supports over 100 languages.
 
@@ -56,7 +56,7 @@ Free online OCR tools exist but typically have strict file size limits and requi
 
 OCR accuracy depends primarily on the quality of the source document. Clean, high-resolution scans at 300 DPI or above produce the best results. Skewed pages, low contrast, small text, and unusual fonts all reduce accuracy.
 
-For business documents (letters, reports, forms), modern OCR typically achieves 98-99% accuracy on good scans. For older or degraded documents, accuracy drops and manual review may be needed.
+For business documents (letters, reports, forms), modern OCR engines from leading vendors generally achieve high accuracy rates on good quality scans. For older or degraded documents, accuracy drops and manual review may be needed.
 
 Tips for better OCR results: scan at 300 DPI minimum, use black and white mode for text-only documents, ensure pages are straight, and clean up any marks or stains before scanning if possible.
 

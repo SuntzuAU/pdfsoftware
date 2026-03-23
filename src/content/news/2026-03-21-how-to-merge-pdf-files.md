@@ -48,7 +48,7 @@ For regular PDF merging -- particularly in a business environment -- desktop sof
 
 **Tungsten Power PDF** (Standard or Advanced) includes full PDF merge and combine functionality. You can merge entire documents, select specific pages, reorder pages before combining, and batch merge multiple files. Since it is a perpetual licence starting at A$188 inc GST, there are no ongoing costs and no file upload to external servers. Power PDF also covers every other common PDF task -- editing, converting, splitting, signing, and redacting -- so it replaces the need for multiple single-purpose tools.
 
-**Adobe Acrobat Pro** includes a Combine Files tool that handles merging PDF documents along with Word, Excel, and PowerPoint files into a single PDF. The merge functionality works well, but you are paying A$419.89 per user per year for access to it alongside everything else in Acrobat.
+**Adobe Acrobat Pro** includes a Combine Files tool that handles merging PDF documents along with Word, Excel, and PowerPoint files into a single PDF. The merge functionality works well, but you are paying a subscription fee (A$383.86 per year for individual users, verified March 2026) for access to it alongside everything else in Acrobat.
 
 **PDF-XChange Editor** (Windows only) can merge and combine PDF files in its paid edition. The free version handles viewing and annotations but merge functionality requires the licence.
 
@@ -67,3 +67,5 @@ For a quick one-off merge with non-sensitive documents, a free online tool like 
 If you are evaluating PDF software for your team, see our guide to the [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia). If you need to do the opposite -- break a PDF into separate files -- see [how to split PDF files](/news/2026-03-21-how-to-split-pdf-files).
 
 [Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local Australian support. Contact us for a free 15-day trial.
+
+*Pricing accurate at time of publication. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*

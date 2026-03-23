@@ -54,7 +54,7 @@ Microsoft Excel and PowerPoint both include built-in Save As PDF functionality. 
 
 Converting PDF to Word is trickier than the reverse because PDF is a fixed-layout format while Word is a flow-layout format. The quality of conversion depends heavily on how the original PDF was created.
 
-For PDFs created from Word or other text applications, Tungsten Power PDF and Adobe Acrobat both produce good Word to PDF conversions that preserve formatting, tables, and images. Power PDF uses its own conversion engine and handles complex layouts well.
+For PDFs created from Word or other text applications, Tungsten Power PDF and Adobe Acrobat both produce good results that preserve formatting, tables, and images. Power PDF uses its own conversion engine and handles complex layouts well.
 
 Free PDF to Word converters exist online, but the output quality is inconsistent -- particularly with tables, columns, and embedded images. For important documents, use desktop software.
 
