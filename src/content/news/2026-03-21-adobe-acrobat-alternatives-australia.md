@@ -23,9 +23,9 @@ internalLinks:
   - to: "/#pricing"
     anchor: "pricing comparison"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "dictationsolutions.com.au"
+    anchor: "dictation software"
+    url: "https://www.dictationsolutions.com.au"
 ---
 
 Adobe Acrobat is the default choice for PDF software in many Australian organisations. It works well, it is widely recognised, and procurement teams are familiar with it. But default does not always mean best value -- and as Adobe Acrobat subscription costs continue to rise, a growing number of Australian businesses and government agencies are evaluating alternatives.
@@ -60,7 +60,7 @@ For 10 users over three years:
 
 That represents a potential saving of approximately A$9,000 to A$10,000 for comparable core desktop functionality. Adobe Acrobat does offer stronger cloud and mobile capabilities, so the comparison is most relevant for organisations focused on desktop PDF editing. See our [detailed Adobe Acrobat Pro vs Tungsten Power PDF comparison](/news/2026-03-21-acrobat-pro-vs-tungsten-power-pdf) for a feature-by-feature breakdown.
 
-Power PDF is deployed in government agencies across Australia and is supported locally by [Voice Recognition Australia](https://www.voicerecognition.com.au), which has been providing enterprise software deployment and support for over 25 years.
+Power PDF is deployed in government agencies across Australia and is supported locally with over 25 years of enterprise software deployment experience.
 
 Power PDF Standard (A$188 inc GST) is available for users who need core editing without enterprise features. A Mac edition is also available.
 
@@ -97,6 +97,8 @@ Migrating from Adobe Acrobat to an alternative product is often less disruptive 
 The practical steps are straightforward: evaluate your current Adobe Acrobat usage to confirm which features your team actually uses, trial the alternative product in your environment, and deploy. Most teams are fully operational within a day.
 
 For a broader look at PDF editors including free options, see our [best PDF editor comparison](/news/2026-03-21-best-pdf-editor-australia). For pricing details, see our [pricing comparison](/#pricing).
+
+The fastest way to create the documents in the first place is voice. Pairing PDF software with [dictation software](https://www.dictationsolutions.com.au) lets professionals dictate three times faster than typing, and the output flows straight into a PDF workflow.
 
 Tungsten Power PDF is available as a free 15-day trial with full functionality. Contact us to arrange access with local onboarding support.
 

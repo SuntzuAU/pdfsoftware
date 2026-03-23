@@ -23,9 +23,9 @@ internalLinks:
   - to: "/#pricing"
     anchor: "pricing comparison table"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "dragonprofessional16.com.au"
+    anchor: "Dragon Professional"
+    url: "https://www.dragonprofessional16.com.au"
 ---
 
 Adobe Acrobat Pro is the incumbent. Tungsten Power PDF Advanced is the challenger. Both are full-featured, enterprise-grade PDF editors designed for business and government environments. The feature sets are closely matched -- the main differences are in licensing, pricing, and long-term cost.
@@ -100,4 +100,4 @@ Choose **Adobe Acrobat Pro** if: you need strong cloud and mobile access; your o
 
 For many Australian organisations comparing core desktop PDF editing capabilities, Power PDF's one-time pricing may represent a more cost-effective option over time. For more context on how organisations are making this decision, see [why government teams are switching to Power PDF](/news/2026-03-03-why-government-teams-switching-to-tungsten) and our broader guide to [Adobe Acrobat alternatives in Australia](/news/2026-03-21-adobe-acrobat-alternatives-australia).
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local deployment and support. Contact us for a free 15-day trial or a tailored proposal for your team.
+Professionals who dictate heavily often find that managing the documents voice workflows produce is the next bottleneck. Pairing PDF software with [Dragon Professional](https://www.dragonprofessional16.com.au) for dictation can compound the time saving significantly. Contact us for a free 15-day Power PDF trial or a tailored proposal for your team.

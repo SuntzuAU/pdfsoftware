@@ -21,9 +21,9 @@ internalLinks:
   - to: "/news/2026-03-21-how-to-split-pdf-files"
     anchor: "how to split PDF files"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "dragonmedicalone.au"
+    anchor: "Dragon Medical One"
+    url: "https://www.dragonmedicalone.au"
 ---
 
 Merging PDF files is one of the most common document tasks in any office. Whether you need to combine PDF documents for a submission, merge PDF files from multiple sources into a single report, or pull together scanned pages into one document, there are several ways to get it done -- from free online tools to professional desktop software.
@@ -70,8 +70,10 @@ For developer-oriented workflows, command-line tools like PDFtk and Ghostscript 
 
 For a quick one-off merge with non-sensitive documents, a free online tool like Smallpdf gets the job done in seconds. For regular business use, a desktop PDF editor is the practical choice -- it keeps your files local, handles complex merges, and covers all your other PDF needs in one tool.
 
+In healthcare environments, clinicians who dictate clinical notes using [Dragon Medical One](https://www.dragonmedicalone.au) often need to merge those documents into patient files. Combining speech recognition with a capable PDF editor streamlines the entire documentation workflow.
+
 If you are evaluating PDF software for your team, see our guide to the [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia). If you need to do the opposite -- break a PDF into separate files -- see [how to split PDF files](/news/2026-03-21-how-to-split-pdf-files).
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local Australian support. Contact us for a free 15-day trial.
+Contact us for a free 15-day Power PDF trial.
 
 *Pricing sourced from adobe.com/au, March 2026. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*

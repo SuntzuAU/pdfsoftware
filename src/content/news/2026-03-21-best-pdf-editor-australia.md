@@ -23,9 +23,9 @@ internalLinks:
   - to: "/news/2026-03-21-ocr-text-recognition-scanned-pdfs"
     anchor: "OCR text recognition guide"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "speechrecognition.cloud"
+    anchor: "best free speech to text"
+    url: "https://www.speechrecognition.cloud"
 ---
 
 Choosing the right PDF editor depends on what you actually need it to do. Some people just want to fill in a form or add a signature. Others need advanced redaction, batch processing, and integration with document management systems. The range of options in Australia spans from completely free online PDF editors through to enterprise-grade desktop software -- and the pricing differences are significant.
@@ -86,6 +86,8 @@ For Australian business and government users who need reliable, full-featured PD
 
 For individual users or home use, a free PDF editor like Sejda or PDF-XChange will handle most tasks. Adobe Acrobat remains a capable product, but the subscription cost can be difficult to justify when comparable core desktop functionality is available at a lower price.
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) has been deploying PDF and document productivity software across Australian government and enterprise environments for over 25 years. Contact us for a tailored recommendation or a free 15-day Power PDF trial.
+For professionals who want to speed up document creation before it reaches the PDF stage, the [best free speech to text](https://www.speechrecognition.cloud) tools can dramatically reduce the time spent typing first drafts.
+
+Contact us for a tailored recommendation or a free 15-day Power PDF trial.
 
 *Pricing sourced from adobe.com/au, March 2026. Software vendors may change pricing without notice. Verify current pricing directly with the vendor before making purchasing decisions.*

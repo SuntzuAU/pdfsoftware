@@ -21,9 +21,9 @@ internalLinks:
   - to: "/news/2026-03-21-best-pdf-editor-australia"
     anchor: "best PDF editors in Australia"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "dragonnaturallyspeaking.com.au"
+    anchor: "Dragon NaturallySpeaking"
+    url: "https://www.dragonnaturallyspeaking.com.au"
 ---
 
 Splitting a PDF -- extracting specific pages or breaking a large document into smaller files -- is a common task for anyone who works with documents regularly. You might need to pull a single chapter from a report, extract pages for a submission, or break a scanned document into individual sections.
@@ -64,6 +64,8 @@ Power PDF Advanced can split multiple PDF files simultaneously based on page cou
 
 For an occasional quick split, a free online tool is the fastest option. For regular use -- especially with confidential documents or large files -- desktop PDF splitter software is the practical choice. Any full-featured PDF editor will handle splitting alongside editing, merging, converting, and signing, so you cover all your PDF needs with a single tool.
 
+Professionals who dictate their documents using [Dragon NaturallySpeaking](https://www.dragonnaturallyspeaking.com.au) often produce lengthy outputs that need splitting into separate files for filing or distribution. Combining speech recognition with capable PDF tools streamlines the entire workflow.
+
 For the opposite task -- combining files -- see [how to merge PDF files](/news/2026-03-21-how-to-merge-pdf-files). For a broader overview of PDF software options, see the [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia).
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local Australian support. Contact us for a free 15-day trial.
+Contact us for a free 15-day Power PDF trial.

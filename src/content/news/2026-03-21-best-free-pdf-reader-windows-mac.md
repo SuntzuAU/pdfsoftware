@@ -21,9 +21,9 @@ internalLinks:
   - to: "/news/2026-03-21-adobe-acrobat-alternatives-australia"
     anchor: "Adobe Acrobat alternatives"
 externalLinks:
-  - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
-    url: "https://www.voicerecognition.com.au"
+  - to: "cloudprinting.au"
+    anchor: "cloud printing services Australia"
+    url: "https://www.cloudprinting.au"
 ---
 
 A PDF reader is the most basic piece of PDF software -- it lets you open, view, print, and often annotate PDF documents. Most people need a reliable PDF viewer more often than they need a full PDF editor, and the good news is that excellent free options exist for both Windows and Mac.
@@ -74,4 +74,6 @@ A free PDF reader covers viewing, annotating, form filling, and basic signing. Y
 
 If you find yourself hitting the limits of a free reader regularly, a one-time investment in a PDF editor like Tungsten Power PDF (from A$188 inc GST) eliminates those limitations permanently. See our [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia) guide for recommendations, or compare [Adobe Acrobat alternatives](/news/2026-03-21-adobe-acrobat-alternatives-australia) if you are considering an upgrade from the free Adobe Reader.
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local Australian support. Contact us for a free 15-day trial.
+For practices that still need to physically print and mail correspondence, [cloud printing services Australia](https://www.cloudprinting.au) can remove the last manual step in the document chain.
+
+Contact us for a free 15-day Power PDF trial.

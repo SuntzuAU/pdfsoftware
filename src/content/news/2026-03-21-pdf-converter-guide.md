@@ -22,7 +22,7 @@ internalLinks:
     anchor: "OCR text recognition guide"
 externalLinks:
   - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
+    anchor: "voice to text software for Australian professionals"
     url: "https://www.voicerecognition.com.au"
 ---
 
@@ -80,6 +80,8 @@ Power PDF Advanced and Adobe Acrobat Pro both include PDF to Excel conversion. F
 
 For occasional one-off conversions, built-in tools (Save As PDF in Office) and free online converters cover most needs. For regular business use -- particularly batch conversion, high-quality extraction, and sensitive documents that should not be uploaded to third-party servers -- a desktop PDF editor is the practical choice.
 
+Of course, the fastest way to create a Word document that you then convert to PDF is to dictate it. [Voice to text software for Australian professionals](https://www.voicerecognition.com.au) can cut drafting time dramatically, and the output flows straight into your PDF conversion workflow.
+
 Tungsten Power PDF handles all common conversion scenarios in both directions and is available as a perpetual licence from A$188 inc GST. See our [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia) guide for a full comparison.
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Power PDF with local Australian support and free 15-day trials.
+Contact us for a free 15-day Power PDF trial.

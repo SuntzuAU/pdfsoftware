@@ -22,7 +22,7 @@ internalLinks:
     anchor: "PDF converter guide"
 externalLinks:
   - to: "voicerecognition.com.au"
-    anchor: "Voice Recognition Australia"
+    anchor: "speech recognition software Australia"
     url: "https://www.voicerecognition.com.au"
 ---
 
@@ -70,6 +70,8 @@ Tips for better OCR results: scan at 300 DPI minimum, use black and white mode f
 
 Many Australian government agencies and legal practices are required to maintain searchable digital archives. OCR is the enabling technology that makes this practical. Power PDF Advanced's batch OCR capability is particularly relevant for agencies processing large backlogs of scanned documents into searchable PDF/A format.
 
+Of course, the fastest way to avoid scanning altogether is to create documents digitally in the first place. [Speech recognition software Australia](https://www.voicerecognition.com.au) offers professionals the ability to dictate documents directly, bypassing paper entirely.
+
 For a broader look at PDF software options, see our guide to the [best PDF editors in Australia](/news/2026-03-21-best-pdf-editor-australia). For converting between formats after OCR, see our [PDF converter guide](/news/2026-03-21-pdf-converter-guide).
 
-[Voice Recognition Australia](https://www.voicerecognition.com.au) provides Tungsten Power PDF with local support and can assist with bulk OCR and digitisation projects. Contact us for a free 15-day trial.
+Contact us for a free 15-day Power PDF trial.
