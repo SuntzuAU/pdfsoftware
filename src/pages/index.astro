@@ -32,7 +32,7 @@ const benefitIcons = [
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{site.branding.metaTitle ?? site.siteName}</title>
-    <meta name="description" content={site.branding.subheadline} />
+    <meta name="description" content={site.branding.metaDesc ?? site.branding.subheadline} />
     <link rel="canonical" href={site.domain} />
 
     <GaHead />
@@ -445,7 +445,7 @@ const benefitIcons = [
                   <div class="_form-content">
                     <div class="_form_element"><input type="text" name="firstname" placeholder="Your Name" required /></div>
                     <div class="_form_element"><input type="text" name="email" placeholder="Your Email" required /></div>
-                    <div class="_form_element"><input type="text" name="phone" placeholder="Your Phone Number" /></div>
+                    <div class="_form_element"><input type="text" id="field36" name="field[36]" placeholder="Your Phone Number" autocomplete="off" /></div>
                     <div class="_form_element"><input type="text" name="field[21]" placeholder="Number of Users" /></div>
                     <div class="_form_element"><input type="text" name="field[35]" placeholder="Company / Organisation" /></div>
                     <div class="_form_element"><textarea name="field[18]" placeholder="Optionally describe your needs"></textarea></div>
