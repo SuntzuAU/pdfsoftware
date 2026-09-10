@@ -36,7 +36,7 @@ Key capabilities include full PDF/A compliance for long-term archiving, advanced
 
 ## Australian support matters
 
-When Adobe has a problem, the support path is an international helpdesk. When Tungsten Power PDF is deployed through Voice Recognition Australia, support is handled locally, typically within 15 minutes. Government agencies across Australia have relied on the same team for enterprise software deployment for over 25 years — the same team who, as [Australian Dragon software specialists](https://www.voicerecognition.com.au), have been deploying productivity software in government environments since the late 1990s.
+When Adobe has a problem, the support path is an international helpdesk. When Tungsten Power PDF is deployed through Voice Recognition Australia, support is handled locally, typically within 15 minutes. Government agencies across Australia have relied on the same team for enterprise software deployment since 2003 — the same team who, as [Australian Dragon software specialists](https://www.voicerecognition.com.au), have been deploying productivity software in government environments since the late 1990s.
 
 ## Making the Switch: What to Expect
 
